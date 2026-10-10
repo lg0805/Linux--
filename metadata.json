@@ -1,0 +1,6 @@
+{
+  "name": "Linux 权限管理系统",
+  "description": "交互式 Linux 权限可视化计算器、特殊权限 (SUID/SGID/Sticky)、Umask 推演、目录与文件判定沙箱及排错实战实验台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
